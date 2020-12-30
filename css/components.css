@@ -29,11 +29,6 @@ h2 {
 	font-weight: 150;
 }
 
-h3 {
-	font-weight: lighter;
-	font-size: 1.3em;
-}
-
 nav p {
 	margin: 2rem;
 }
@@ -42,23 +37,6 @@ p {
 	font-weight: 100;
 	font-size: 1.5rem;
 	line-height: 5vh;
-}
-
-.card p {
-	font-weight: 100;
-	font-size: 1.3rem;
-}
-
-p.summary {
-	font-style: italic;
-}
-
-p.main-idea {
-	font-weight: bold;
-}
-
-p.highlight {
-	text-decoration: underline;
 }
 
 a:link,
@@ -93,28 +71,11 @@ a:visited {
 	border-radius: 0.3rem;
 }
 
-.author-img {
-	width: 4rem;
-	height: 4rem;
-	border-radius: 50%;
-	margin-right: 1rem;
-}
-
-.social-media {
-	text-align: right;
-}
-
-.fa {
-	font-size: 1.5rem !important;
-	padding: 0.5rem;
+.card p {
+	font-weight: 100;
+	font-size: 1.3rem;
 }
 
 footer p {
 	font-size: 1rem;
 }
-
-/* @media (max-width: 48rem) {
-	body {
-		font-size: 0.8rem;
-	}
-} */

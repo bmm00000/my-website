@@ -28,9 +28,6 @@ html {
 	flex-direction: column;
 	align-items: center;
 	justify-content: space-between;
-	/* width: 90%;
-	margin: auto;
-	padding-bottom: 3rem; */
 }
 
 #bio {
@@ -63,11 +60,6 @@ footer {
 		grid-auto-rows: minmax(6rem, auto);
 		grid-gap: 50px;
 	}
-	/* footer {
-		text-align: left;
-		width: 90%;
-		margin: auto;
-	} */
 }
 
 @media (min-width: 901px) {
@@ -90,18 +82,13 @@ footer {
 		align-items: flex-start;
 		justify-content: space-between;
 	}
+
 	.container {
 		display: grid;
 		grid-template-columns: repeat(3, 1fr);
 		grid-auto-rows: minmax(6rem, auto);
 		grid-gap: 5rem;
-		margin-top: 7rem;
-		margin-bottom: 7rem;
+		margin-top: 5rem;
+		margin-bottom: 5rem;
 	}
-
-	/* footer {
-		text-align: left;
-		width: 90%;
-		margin: auto;
-	} */
 }
