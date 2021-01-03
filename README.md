@@ -1,6 +1,6 @@
 # Summary
 
-Minimalist portfolio website built with plain HTML, CSS, and vanilla JavaScript.
+Minimalist portfolio website built with plain HTML and CSS.
 
 It includes contact links, a bio, and cards linking to the portfolio projects (live website, demo, and source code).
 
@@ -8,7 +8,7 @@ It includes contact links, a bio, and cards linking to the portfolio projects (l
 
 # Technologies
 
-HTML, CSS, JavaScript
+HTML, CSS
 
 # Getting started
 
