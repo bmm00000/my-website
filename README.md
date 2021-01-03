@@ -4,7 +4,7 @@ Minimalist portfolio website built with plain HTML, CSS, and vanilla JavaScript.
 
 It includes contact links, a bio, and cards linking to the portfolio projects (live website, demo, and source code).
 
-See live:
+[See live](https://joseboix.com/)
 
 # Technologies
 
